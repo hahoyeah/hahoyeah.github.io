@@ -76,6 +76,7 @@ plt.ylabel('변수명')
 plt.barh(x,y)
 plt.show()
 ```
+![이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FyDjGH%2FbtrNSEWqaZF%2FelojNoXOQDU9vLi4TFg9W1%2Fimg.png)
  
 새로 만든  5개의 피쳐 중 특히 두 번째와 세 번째의 결과가 좋았다.  
 여러 개의 피쳐를 곱하고 빼주고 한 덕분인 거 같다. 뿌듯했다.
